@@ -1,0 +1,10 @@
+C:\DAM2n\Proyecto\Sprint4\Sprint4\obj\Debug\Sprint4.csproj.AssemblyReference.cache
+C:\DAM2n\Proyecto\Sprint4\Sprint4\obj\Debug\Sprint4.Form1.resources
+C:\DAM2n\Proyecto\Sprint4\Sprint4\obj\Debug\Sprint4.Properties.Resources.resources
+C:\DAM2n\Proyecto\Sprint4\Sprint4\obj\Debug\Sprint4.csproj.GenerateResource.cache
+C:\DAM2n\Proyecto\Sprint4\Sprint4\obj\Debug\Sprint4.csproj.CoreCompileInputs.cache
+C:\DAM2n\Proyecto\Sprint4\Sprint4\obj\Debug\Sprint4.exe
+C:\DAM2n\Proyecto\Sprint4\Sprint4\obj\Debug\Sprint4.pdb
+C:\DAM2n\Proyecto\Sprint4\Sprint4\Sprint4.exe.config
+C:\DAM2n\Proyecto\Sprint4\Sprint4\Sprint4.exe
+C:\DAM2n\Proyecto\Sprint4\Sprint4\Sprint4.pdb
